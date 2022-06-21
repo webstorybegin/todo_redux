@@ -1,12 +1,5 @@
 {
-  "heroes": [
-    {
-      "id": "c64cf3ea-3984-473d-8195-c9a4a49d5c06",
-      "name": "dasda",
-      "description": "dasdasd",
-      "element": "fire"
-    }
-  ],
+  "heroes": [],
   "filters": [
     {
       "name": "all",

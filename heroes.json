@@ -1,5 +1,18 @@
 {
-  "heroes": [],
+  "heroes": [
+    {
+      "id": "bb9547b0-7377-42f6-af99-5b2f96d11964",
+      "name": "dasda",
+      "description": "dasdas",
+      "element": "water"
+    },
+    {
+      "id": "1c811dc7-1cf1-4fed-baa7-62ebccc53106",
+      "name": "dasdasd",
+      "description": "dasdasdda",
+      "element": "earth"
+    }
+  ],
   "filters": [
     {
       "name": "all",

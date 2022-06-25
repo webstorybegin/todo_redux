@@ -1,30 +1,5 @@
 {
-  "heroes": [
-    {
-      "id": "e2c921b7-e33f-403e-a718-08ea6d03c203",
-      "name": "dasd",
-      "description": "asdasd",
-      "element": "wind"
-    },
-    {
-      "id": "384484e6-7506-46f8-9f15-9dda76209c9f",
-      "name": "dasda",
-      "description": "dasda",
-      "element": "water"
-    },
-    {
-      "id": "f38a0f56-6c3d-4bdb-b8a6-75b41d601144",
-      "name": "dasda",
-      "description": "sdasdas",
-      "element": "water"
-    },
-    {
-      "id": "69010c8d-c95d-4cd3-ba36-889a93341aeb",
-      "name": "dasda",
-      "description": "sdasd",
-      "element": "earth"
-    }
-  ],
+  "heroes": [],
   "filters": [
     {
       "name": "all",

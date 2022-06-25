@@ -3,10 +3,7 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import cn from "classnames";
 
-import {
-  fetchFilters,
-  activeFilterChanged,
-} from "../../actions";
+import { fetchFilters, activeFilterChanged } from "../../actions";
 import Spinner from "../spinner/Spinner";
 
 const HeroesFilters = () => {
@@ -17,7 +14,7 @@ const HeroesFilters = () => {
   const { request } = useHttp();
 
   useEffect(() => {
-    dispatch(fetchFilters(request))
+    dispatch(fetchFilters(request));
   }, []);
 
   if (filtersLoadingStatus === "loading") {

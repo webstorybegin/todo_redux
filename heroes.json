@@ -1,18 +1,5 @@
 {
-  "heroes": [
-    {
-      "id": "80999cd9-f081-4e86-b84a-52ca17073e9a",
-      "name": "12312",
-      "description": "3123123123e12",
-      "element": "wind"
-    },
-    {
-      "id": "f10ecf55-7cc5-42d3-90a2-106926d32996",
-      "name": "dasda",
-      "description": "dasda",
-      "element": "wind"
-    }
-  ],
+  "heroes": [],
   "filters": [
     {
       "name": "all",

@@ -24,6 +24,9 @@ export const filtersFetched = createAction("FILTERS_FETCHED");
 export const filtersFetchingError = createAction("FILTERS_FETCHING_ERROR");
 export const activeFilterChanged = createAction("ACTIVE_FILTER_CHANGED");
 
+
+///// NEXT VERSIOn
+
 // export const activeFilterChanged = (filter) => {
 //   return {
 //     type: "ACTIVE_FILTER_CHANGED",
